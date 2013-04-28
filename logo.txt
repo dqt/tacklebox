@@ -1,0 +1,22 @@
+ 
+                   |  `'.
+__           |`-._/_.:---`-.._             )
+\='.       _/..--'`__         `'-._|      (
+ \- '-.--"`      ===    ----/--(O)-|',     )
+  )= (                  --_ |       _.'   (
+ /_=.'-._             {=_-_ |   .--`-.====*
+/_.'    `\`'-._        '-=   \ \\\\.'
+         )  _.-'`'-..       _..-\\\\
+        /_.'        `/";';`|
+                     \` .'/
+                      '--'
+
+
+usage examples:
+tacklebox -s strings.txt -a accounts.txt -m 100 -t 20 --gmail
+tacklebox -r regex.txt -a accounts.txt -m 0 --hotmail
+tacklebox -r -a accounts.txt -m 250 -t 30 --custom
+tacklebox -o masterAccountList.txt
+tacklebox -h
+
+------
