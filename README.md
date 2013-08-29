@@ -3,9 +3,12 @@ tacklebox
 
 POP penetration testing toolkit
 
-Load accounts, regex to search, etc from text files
-Pretty directory based output
-Clean and organize lists
+Loads email accounts and credentials from text file and parses messages for matching strings or regex.
+
+Pretty directory based output.
+
+Cleans and organizes account lists.
+
+Built in Yahoo, Gmail, and Hotmail functionality or custom POP details.
 
 Ugly uncommented code. Not meant to be public.
-Written using classes rather than pythonic methods as a testament to Java (lulz)
